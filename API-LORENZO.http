@@ -1,0 +1,6 @@
+@API_LORENZO_HostAddress = http://localhost:5156
+
+GET {{API_LORENZO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
